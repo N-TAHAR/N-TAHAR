@@ -1,11 +1,9 @@
 <h1 align="center"><b>Yo! I'm Najib Tahar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate Full Stack Developer,;Master of Ruby and Javascript,;Love to learn new things,;Growing everyday 💪"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Full+Stack+Developer,;Master+of+Ruby+and+Javascript,;Love+to+learn+new+things,;Growing+everyday+💪"></a>
 </p>
 
-<br>
-<br>
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -32,7 +30,8 @@
 ![RubyOnRails](https://img.shields.io/badge/Ruby%20On%20Rails-B61609.svg?style=for-the-badge&logo=RubyOnRails&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/React.JS-5ED9FB.svg?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React.JS-5ED9FB.svg?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.JS-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -63,6 +62,7 @@
 <img src="https://img.shields.io/badge/linkedin:  najib%20tahar--berrabah-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
+<br>
 <br>
 
 <a href="mailto:najibtaharberrabah@gmail.com" target="_blank">
