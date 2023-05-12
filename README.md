@@ -6,9 +6,9 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="./assets/programming.svg" width = 250px></picture>
 
 <br>
 
@@ -53,15 +53,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="./assets/handshake.gif" width ="80">
 
 <br>
 
 <a href="https://www.linkedin.com/in/najib-tahar-berrabah/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  najib%20tahar--berrabah-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-
-<br>
 <br>
 
 <a href="mailto:najibtaharberrabah@gmail.com" target="_blank">
